@@ -26,18 +26,15 @@
 
 Toda a documentação oficial do bot está disponível no GitBook:
 
-👉 [GitBook Oficial do BOT AUDEV STORE](https://audev.gitbook.io/bot-audev-store/d1oUIWp3c7UMXUjtNeij?utm_source=chatgpt.com)
+👉 [GitBook Oficial do BOT AUDEV STORE](https://audev.gitbook.io/bot-audev-store/d1oUIWp3c7UMXUjtNeij)
 
 ---
 
 ## 🚀 Funcionalidades
 
-* 🛒 Sistema de Loja
-* 💳 Integração com pagamentos
 * 🎫 Sistema de Tickets
 * 👮 Moderação avançada
-* 📦 Entrega automática de produtos
-* ⚙️ Painel de configuração
+* 📦 Report de Bugs
 * 📊 Logs completos
 * 🔒 Sistema de permissões
 * 📨 Mensagens automáticas
@@ -101,8 +98,8 @@ Consulte os tutoriais completos no GitBook.
 
 ## 🔗 Links Oficiais
 
-* 💻 Repositório GitHub: [GitHub do Projeto](https://github.com/Liiviy/BOT?utm_source=chatgpt.com)
-* 📚 Documentação: [GitBook AUDEV STORE](https://audev.gitbook.io/bot-audev-store/d1oUIWp3c7UMXUjtNeij?utm_source=chatgpt.com)
+* 💻 Repositório GitHub: [GitHub do Projeto](https://github.com/Liiviy/BOT)
+* 📚 Documentação: [GitBook AUDEV STORE](https://audev.gitbook.io/bot-audev-store/d1oUIWp3c7UMXUjtNeij)
 
 ---
 
