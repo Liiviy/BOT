@@ -107,7 +107,6 @@ Consulte os tutoriais completos no GitBook.
 
 * Node.js
 * Discord.js
-* MongoDB
 * API REST
 * JSON Database
 
