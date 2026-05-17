@@ -131,4 +131,3 @@ Este projeto está sob a licença MIT.
 <p align="center">
   Feito para comunidades que querem automação profissional no Discord 🚀
 </p>
-::contentReference[oaicite:3]{index=3}
